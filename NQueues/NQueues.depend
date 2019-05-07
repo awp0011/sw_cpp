@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557142369 source:e:\codeblocks_workspace\nqueues\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+

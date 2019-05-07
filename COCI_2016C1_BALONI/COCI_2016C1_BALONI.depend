@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556936714 source:e:\codeblocks_workspace\coci_2016c1_baloni\main.cpp
+	<iostream>
+	<cstdio>
+

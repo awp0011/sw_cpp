@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556952724 source:e:\codeblocks_workspace\sds_pro_3_1\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+
